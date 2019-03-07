@@ -9,3 +9,14 @@ I'm a software engineer with interests across data analysis, security, machine l
 
 Feel free to reach me at qiufdsmile (@) 163.com, though I may not be very responsive.
 
+
+# Work Experience
+Alibaba Cloud [Nov. 2018 - ]
+- Technique Engineer
+- Focus on system virtualization/os kernel/data/AI technologies 
+2012 Lab @Huawei Co. [Jun. 2017 - Nov. 2018]
+- Engineer, SE of AI team, SE of security team
+- Focus on system security/data security/ML/DL technologies 
+Microsoft Research Asia (MSRA) [Jul. 2014 - Dec.2014]
+- Visiting Intern in Mobile and Sensing System Group
+- Focus on system security
